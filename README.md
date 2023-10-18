@@ -16,13 +16,22 @@ This repository contains my solutions to the exercises from the book "Let Us C" 
 The repository is organized into chapters, with each chapter containing solutions to the corresponding exercises. The current structure looks like this:
 
 ├── Chapter1
+
 │ ├── Q1.c
+
 │ ├── Q2.c
+
 │ └── ...
+
 ├── Chapter2
+
 │ ├── Q1.c
+
 │ ├── Q2.c
+
 │ └── ...
+
 ├── ...
+
 
 Feel free to explore the directories and view the code for each exercise.
