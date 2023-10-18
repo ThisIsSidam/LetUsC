@@ -5,33 +5,14 @@ This repository contains my solutions to the exercises from the book "Let Us C" 
 ## Table of Contents
 
 - [About the Book](#about-the-book)
-- [Directory Structure](#directory-structure)
+- [Found a Mistake](#found-a-mistake)
 
 ## About the Book
 
 "Let Us C" by Yashavant Kanetkar is a widely acclaimed book that serves as a comprehensive guide to the C programming language. It covers various aspects of C programming, from basic concepts to advanced topics, making it suitable for beginners and experienced programmers alike. The exercises in the book are designed to reinforce the concepts discussed in each chapter.
 
-## Directory Structure
+## Found a Mistake?
 
-The repository is organized into chapters, with each chapter containing solutions to the corresponding exercises. The current structure looks like this:
+If you found a mistake in my code, do contact me and I'll fix it up. You can also just send a pull request. Thinking why send a pull request for such a minor thing? Well, it can act as practice for you if you are new to sending pull requests (like me).
 
-├── Chapter1
-|
-│ ├── Q1.c
-|
-│ ├── Q2.c
-|
-│ └── ...
-|
-├── Chapter2
-|
-│ ├── Q1.c
-|
-│ ├── Q2.c
-|
-│ └── ...
-|
-├── ...
-
-
-Feel free to explore the directories and view the code for each exercise.
+How to send a pull request?  Well you've gotta search it up on the net. Learn. The internet is all yours.
