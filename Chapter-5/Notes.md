@@ -1,6 +1,4 @@
-Author: Anshu Kumar Singh
-Date: 27/10/2023
-Let Us C 18th Edition Chapter 5 Notes
+Author: Anshu Kumar Singh | Date: 27/10/2023 | Let Us C 18th Edition Chapter 5 Notes
 
 - Repetition control instruction is used to repeat a set of statements in a program.
 

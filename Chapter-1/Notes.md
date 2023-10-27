@@ -1,6 +1,4 @@
-Author: Anshu Kumar Singh
-Date: 27/10/2023
-Let Us C 18th Edition Chapter 1 Notes
+Author: Anshu Kumar Singh | Date: 27/10/2023 | Let Us C 18th Edition Chapter 1 Notes
 
 - 3 top reasons for learning C:
 	-  Good base for learning C++, C# or Java later.

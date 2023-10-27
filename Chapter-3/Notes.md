@@ -1,6 +1,4 @@
-Author: Anshu Kumar Singh
-Date: 27/10/2023
-Let Us C 18th Edition Chapter 3 Notes
+Author: Anshu Kumar Singh | Date: 27/10/2023 | Let Us C 18th Edition Chapter 3 Notes
 
 - General form of decision control instructions: 
 ```

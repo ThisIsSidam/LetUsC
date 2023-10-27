@@ -1,6 +1,4 @@
-Author: Anshu Kumar Singh
-Date: 27/10/2023
-Let Us C 18th Edition Chapter 2 Notes
+Author: Anshu Kumar Singh | Date: 27/10/2023 | Let Us C 18th Edition Chapter 2 Notes
 
 - Standard steps in interchanging contents of two variables: `t = a; a = b; b = t;`
 

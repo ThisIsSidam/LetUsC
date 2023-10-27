@@ -1,6 +1,4 @@
-Author: Anshu Kumar Singh
-Date: 27/10/2023
-Let Us C 18th Edition Chapter 4 Notes
+Author: Anshu Kumar Singh | Date: 27/10/2023 | Let Us C 18th Edition Chapter 4 Notes
 
 - More complex decision making can be done using logical operators.
 
