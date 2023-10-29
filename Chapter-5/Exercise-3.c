@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
-// Date: 19/10/2023
-// Let Us C 18th Edition Chapter 5 Question 2
+// Date: 28/10/2023
+// Let Us C 18th Edition Chapter 5 Question 3
 
 /*
 Write a program for a matchstick game being played between the computer and a user.
