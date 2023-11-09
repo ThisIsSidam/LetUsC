@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 15/10/2023
-// Let Us C 18th Edition Chapter 3 Question 2
+// Let Us C 18th Edition Chapter 3 Exercise 2
 
 /*
 If ages of Ram, Shyam and Ajay are input through the keyboard,

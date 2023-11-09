@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 16/10/2023
-// Let Us C 18th Edition Chapter 4 Question 3
+// Let Us C 18th Edition Chapter 4 Exercise 3
 
 /*
 A certain grade of steel is graded according to the following conditions:

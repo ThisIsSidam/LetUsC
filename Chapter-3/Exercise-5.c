@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 15/10/2023
-// Let Us C 18th Edition Chapter 3 Question 5
+// Let Us C 18th Edition Chapter 3 Exercise 5
 
 /*
 Given the length and breadth of a rectangle, write a program tof ind whether

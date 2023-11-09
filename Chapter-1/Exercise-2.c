@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 13/10/2023
-// Let Us C 18th Edition Chapter 1 Question 2
+// Let Us C 18th Edition Chapter 1 Exercise 2
 
 /*
 The length and breadth of a rectangle and radius of a circle are input through the keyboard. 

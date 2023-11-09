@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 15/10/2023
-// Let Us C 18th Edition Chapter 3 Question 1
+// Let Us C 18th Edition Chapter 3 Exercise 1
 
 /*
 A five-digit number is entered through the keyboard. Write a program to

@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 13/10/2023
-// Let Us C 18th Edition Chapter 1 Question 3
+// Let Us C 18th Edition Chapter 1 Exercise 3
 
 /*
 Paper of size A0 has dimensions 1189 mm x 841 mm. Each subsequent size A(n) 

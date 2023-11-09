@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 29/10/2023
-// Let Us C 18th Edition Chapter 5 Question 5
+// Let Us C 18th Edition Chapter 5 Exercise 5
 
 /*
 Write a program to receive an integer and find its octal equivalent. 

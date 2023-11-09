@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 15/10/2023
-// Let Us C 18th Edition Chapter 3 Question 7
+// Let Us C 18th Edition Chapter 3 Exercise 7
 
 /*
 Given the coordinates (x, y) of center of a circle and its radius, write

@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 15/10/2023
-// Let Us C 18th Edition Chapter 3 Question 3
+// Let Us C 18th Edition Chapter 3 exercise 3
 
 /*
 Write a program to check whether a triangle is valid or not, if three

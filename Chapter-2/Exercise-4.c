@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 14/10/2023
-// Let Us C 18th Edition Chapter 2 Question 4
+// Let Us C 18th Edition Chapter 2 Exercise 4
 
 /*
 Wind-chill factor is the felt air temperature on exposed skin due to wind.

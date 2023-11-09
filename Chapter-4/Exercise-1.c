@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 16/10/2023
-// Let Us C 18th Edition Chapter 4 Question 1
+// Let Us C 18th Edition Chapter 4 Exercise 1
 
 /*
 If the lengths of three sides of a triangle are entered through the keyboard,

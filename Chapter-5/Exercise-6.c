@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 29/10/2023
-// Let Us C 18th Edition Chapter 5 Question 6
+// Let Us C 18th Edition Chapter 5 Exercise 6
 
 /*
 Write a program to find the range of a set of numbers entered through the 

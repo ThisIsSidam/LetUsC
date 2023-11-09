@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 19/10/2023
-// Let Us C 18th Edition Chapter 5 Question 2
+// Let Us C 18th Edition Chapter 5 Exercise 2
 
 /*
 Write a program to print out all Armstrong numbers between 1 and 500. If sum

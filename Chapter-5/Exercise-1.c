@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 19/10/2023
-// Let Us C 18th Edition Chapter 5 Question 1
+// Let Us C 18th Edition Chapter 5 Exercise 1
 
 /*
 Write a program to print all the ASCII values and their equivalent characters 

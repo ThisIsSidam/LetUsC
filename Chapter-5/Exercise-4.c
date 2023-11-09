@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 28/10/2023
-// Let Us C 18th Edition Chapter 5 Question 4
+// Let Us C 18th Edition Chapter 5 Exercise 4
 
 /*
 Write a program to enter numbers till the user wants. 

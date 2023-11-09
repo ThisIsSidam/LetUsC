@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 15/10/2023
-// Let Us C 18th Edition Chapter 3 Question 6
+// Let Us C 18th Edition Chapter 3 Exercise 6
 
 /*
 Given three points (x1, y1), (x2, y2), and (x3, y3), write a program to 

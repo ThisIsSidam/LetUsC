@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 14/10/2023
-// Let Us C 18th Edition Chapter 2 Question 5
+// Let Us C 18th Edition Chapter 2 Exercise 5
 
 /*
 If value of an angle is input through the keyboard, write a program

@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 17/10/2023
-// Let Us C 18th Edition Chapter 4 Question 5
+// Let Us C 18th Edition Chapter 4 Exercise 5
 
 /*
 Do these using Conditional Operators:

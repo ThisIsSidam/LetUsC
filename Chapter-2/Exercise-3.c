@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 14/10/2023
-// Let Us C 18th Edition Chapter 2 Question 3
+// Let Us C 18th Edition Chapter 2 Exercise 3
 
 /*
 Write a program to receive values of latitude (L1, L2) and longitude (G1, G2),

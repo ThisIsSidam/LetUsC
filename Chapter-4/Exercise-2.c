@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 16/10/2023
-// Let Us C 18th Edition Chapter 4 Question 2
+// Let Us C 18th Edition Chapter 4 Exercise 2
 
 /*
 In digital world, colors are specified in Red-Green-Blue(RGb) format, 
