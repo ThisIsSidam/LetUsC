@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 31/10/2023
-// Let Us C 18th Edition Chapter 6 Question 3
+// Let Us C 18th Edition Chapter 6 Exercise 3
 
 /*
 When interest compounds q times per year at an annual rate of r% for n years,

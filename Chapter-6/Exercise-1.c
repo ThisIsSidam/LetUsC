@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 31/10/2023
-// Let Us C 18th Edition Chapter 6 Question 1
+// Let Us C 18th Edition Chapter 6 Exercise 1
 
 /*
 Write a program to print the multiplication table of the number entered by the user. 

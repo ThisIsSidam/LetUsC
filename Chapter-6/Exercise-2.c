@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 31/10/2023
-// Let Us C 18th Edition Chapter 6 Question 2
+// Let Us C 18th Edition Chapter 6 Exercise 2
 
 /*
 According to a study, the approximate level of intelligence of a person can be calculated

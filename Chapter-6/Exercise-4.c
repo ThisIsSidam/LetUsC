@@ -1,6 +1,6 @@
 // Author: Anshu Kumar Singh
 // Date: 01/11/2023
-// Let Us C 18th Edition Chapter 6 Question 4
+// Let Us C 18th Edition Chapter 6 Exercise 4
 
 /*
 The natual logarithm can be approximated by the following series.
